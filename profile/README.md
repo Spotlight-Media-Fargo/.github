@@ -105,7 +105,7 @@ AI-powered SEO strategies that uncover opportunities, improve search visibility 
 
 **[GET A FREE PROPOSAL →](https://spotlightmediafargo.com/contact)** &nbsp;&nbsp; **[SEO & AI SEO SERVICES →](https://spotlightmediafargo.com/website-design/seo)**
 
-<img src="https://spotlightmediafargo.com/assets/home/ai-claude.webp" alt="AI search visibility example" width="100%">
+<img src="https://raw.githubusercontent.com/Spotlight-Media-Fargo/.github/main/assets/ai-seo-section.png" alt="Spotlight Media AI SEO Services section" width="100%">
 
 ---
 
