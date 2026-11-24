@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://spotlightmediafargo.com/book-a-call">Book a meeting</a> ·
-  <a href="https://spotlightmediafargo.com/our-work">Explore our work</a> ·
+  <a href="https://spotlightmediafargo.com/work">Explore our work</a> ·
   <a href="https://spotlightmediafargo.com/contact">Contact us</a>
 </p>
 
@@ -79,7 +79,7 @@ WordPress · Facebook · Shopify · Google Ads · The Trade Desk · Figma · Cla
 
 Explore the brands, websites and campaigns we’ve brought to life through smart strategy, bold creativity and thoughtful execution.
 
-→ [View our work](https://spotlightmediafargo.com/our-work)
+→ [View our work](https://spotlightmediafargo.com/work)
 
 ![Spotlight Media creative work](https://spotlightmediafargo.com/assets/home/work-wimmers-poster.webp)
 
