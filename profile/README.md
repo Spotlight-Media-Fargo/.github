@@ -11,7 +11,7 @@
 
 </div>
 
-<img src="https://spotlightmediafargo.com/assets/og/home.jpg" alt="Spotlight Media — Fargo marketing agency that drives growth" width="100%">
+<img src="https://spotlightmediafargo.com/assets/home/services-webdesign-40-893.webp" alt="Spotlight Media website design work" width="100%">
 
 # Fargo Marketing Agency That Drives Growth.
 
@@ -88,6 +88,13 @@ Trusted print and digital media opportunities that connect your brand with engag
 
 <img src="https://spotlightmediafargo.com/assets/home/services-marketing-40-883.webp" alt="Spotlight Media marketing and creative work" width="100%">
 
+<table>
+<tr>
+<td width="50%"><img src="https://spotlightmediafargo.com/assets/home/services-advertising.webp" alt="Spotlight Media advertising work"></td>
+<td width="50%"><img src="https://spotlightmediafargo.com/assets/home/services-media-01.webp" alt="Spotlight Media publication and media work"></td>
+</tr>
+</table>
+
 ---
 
 **AI SEO**
@@ -158,24 +165,6 @@ Spotlight started in Fargo in 2009. Today, our team brings that publishing exper
 We connect your website, advertising and analytics so you can see what brings people in and what leads to an inquiry. Our team handles the setup, reporting and ongoing improvements, with automation and AI where they help the work.
 
 `WordPress` · `Facebook` · `Shopify` · `Google Ads` · `The Trade Desk` · `Figma` · `Claude` · `AgencyAnalytics` · `ChatGPT` · `WhatConverts`
-
----
-
-**OUR TEAM**
-
-## Meet Our Team of Experts.
-
-Our team brings together creative talent, strategic thinkers, and marketing minds who know how to turn big ideas into meaningful results.
-
-<table>
-<tr>
-<td width="33%"><img src="https://spotlightmediafargo.com/assets/team/hero/mike-dragosavich.webp" alt="Mike Dragosavich"><br><strong>Mike Dragosavich</strong><br>Founder & CEO</td>
-<td width="33%"><img src="https://spotlightmediafargo.com/assets/team/hero/kim.webp" alt="Kim Cowles"><br><strong>Kim Cowles</strong><br>Art Director</td>
-<td width="33%"><img src="https://spotlightmediafargo.com/assets/team/hero/megan-s.webp" alt="Megan Suedbeck"><br><strong>Megan Suedbeck</strong><br>Creative Director</td>
-</tr>
-</table>
-
-**[MEET THE WHOLE TEAM →](https://spotlightmediafargo.com/about)**
 
 ---
 
